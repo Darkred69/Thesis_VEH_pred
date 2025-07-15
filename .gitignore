@@ -1,0 +1,10 @@
+/venv
+*.png
+*.keras
+*.md
+/.venv
+/eVED
+/cache
+/my_dir
+/sampled
+/Data
